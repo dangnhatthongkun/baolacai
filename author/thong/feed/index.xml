@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/06/cropped-logo-32x32.jpg</url>
+	<title>Đặng Nhất Thống &#8211; Báo Lá Cải</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Khám Phá Phong Cảnh Bà Nà Hill- Đường Lên Tiên Cảnh</title>
 		<link>./../../../du-lich/kham-pha-phong-canh-ba-na-hill-duong-len-tien-canh/index.html</link>
